@@ -174,8 +174,10 @@ hr.line{
   padding:.5rem;
   margin:.5rem;
 }
-.projectsModule p{
-  line-height: 1.5;
-  padding:1rem;
-  text-align: justify;
+.projectsModule img{
+  min-width: 100%;
+  height: auto;
 } 
+.centerText{
+  text-align: center;
+}
